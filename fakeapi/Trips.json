@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "title": "رحلة تسلق",
+    "location": "اربيل ،العراق",
+    "cover": "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "iqd_price": "150,000",
+    "images": [
+      "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1532339142463-fd0a8979791a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1510312305653-8ed496efae75?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "discount": 10,
+    "available_seat_count": 80,
+    "from": "7 مارس",
+    "to": "8 مارس",
+    "info": {
+      "description": "رحلة تخييم ممتعة في منطقة المنصور. مناسبة للعائلات والأصدقاء، حيث يمكنكم الاستمتاع بالأنشطة الترفيهية في الهواء الطلق.",
+      "duration": "2 يوم",
+      "next_trip": "20 مارس",
+      "type": "عائلية"
+    },
+    "images_section": [
+      "https://images.unsplash.com/photo-1486915309851-b0cc1f8a0084?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1576176539998-0237d1ac6a85?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1539183204366-63a0589187ab?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1475483768296-6163e08872a1?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1559521783-1d1599583485?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "reviews": {
+      "result": "4.5",
+      "stars": 4,
+      "total_reviews_count": 400,
+      "stars_details": [
+        {
+          "label": 5,
+          "count": 300
+        },
+        {
+          "label": 4,
+          "count": 250
+        },
+        {
+          "label": 3,
+          "count": 100
+        },
+        {
+          "label": 2,
+          "count": 120
+        },
+        {
+          "label": 1,
+          "count": 10
+        }
+      ],
+      "user_reviews": [
+        {
+          "cover": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "محمد علي احمد",
+          "stars": 3,
+          "comment": "كانت الرحلة جيدة ولكن كان الطقس غير مناسب لبعض الأنشطة.",
+          "date": "01/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "سعاد عبد الله",
+          "stars": 5,
+          "comment": "التجربة كانت رائعة جدًا! أحببنا الأجواء والطعام والخدمات المقدمة.",
+          "date": "03/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "حسن كاظم",
+          "stars": 4,
+          "comment": "الرحلة كانت ممتعة بشكل عام، لكن أعتقد أنه كان يمكن تنظيم الأنشطة بشكل أفضل.",
+          "date": "05/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "آية زين العابدين",
+          "stars": 5,
+          "comment": "أجمل رحلة تخييم! المكان كان هادئًا وجميلًا، كانت الأجواء مثالية للاسترخاء.",
+          "date": "06/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/flagged/photo-1573740144655-bbb6e88fb18a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "عادل حسن",
+          "stars": 2,
+          "comment": "لم تكن الرحلة كما توقعت، لم يكن هناك ما يكفي من النشاطات الترفيهية.",
+          "date": "08/01/2025"
+        }
+      ]
+    },
+    "services": [
+      {
+        "label": "الاكل والشرب",
+        "categories": ["وجبة فطار", "وجبة غداء", "تحلية بعد الغداء", "وجبة عشاء"]
+      },
+      {
+        "label": "الأنشطة",
+        "categories": ["نزهة في الطبيعة", "مسابقات ترفيهية", "رياضات مائية"]
+      },
+      {
+        "label": "النقل",
+        "categories": ["نقل بالحافلة", "نقل خاص للأفراد"]
+      },
+      {
+        "label": "الإقامة",
+        "categories": ["خيمة مكيفة", "خيمة عائلية", "خيمة فردية"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "رحلة الغردقة",
+    "location": "الغردقة, مصر",
+    "cover": "https://images.unsplash.com/photo-1569531955317-390fbbc73f17?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "discount": 5,
+    "iqd_price": "300,000",
+    "images": [
+      "https://images.unsplash.com/photo-1584719866406-c76ddee48493?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1562679299-266edbefd6d7?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1587975844610-40f1ad10d07e?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1608546043931-6c9678ea9feb?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "available_seat_count": 20,
+    "from": "5 أبريل",
+    "to": "12 أبريل",
+    "info": {
+      "description": "استمتع برحلة سياحية مميزة على شواطئ البحر الأحمر مع جولات بحرية وزيارات للمعالم السياحية في الغردقة.",
+      "duration": "7 أيام",
+      "next_trip": "15 مايو",
+      "type": "استجمام"
+    },
+    "images_section": [
+      "https://images.unsplash.com/photo-1595979904086-471704dc0e81?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1594332963101-0949c9b467ee?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1577214407836-1f3a0604ecb2?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1553913861-dc2ce76b856c?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1597493633263-f9dc9354365a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "reviews": {
+      "result": "4.8",
+      "stars": 5,
+      "total_reviews_count": 500,
+      "stars_details": [
+        {
+          "label": 5,
+          "count": 400
+        },
+        {
+          "label": 4,
+          "count": 70
+        },
+        {
+          "label": 3,
+          "count": 30
+        },
+        {
+          "label": 2,
+          "count": 0
+        },
+        {
+          "label": 1,
+          "count": 0
+        }
+      ],
+      "user_reviews": [
+        {
+          "cover": "https://plus.unsplash.com/premium_photo-1668485966810-cbd0f685f58f?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "سارة خالد",
+          "stars": 5,
+          "comment": "رحلة رائعة جداً! كانت الإقامة ممتازة والأنشطة البحرية ممتعة للغاية.",
+          "date": "01/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1588976612067-d015cbbdb38b?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "خالد توفيق",
+          "stars": 4,
+          "comment": "كانت الرحلة مريحة والطاقم كان متعاونًا جدًا، ولكن بعض الأنشطة كانت مكلفة.",
+          "date": "03/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1584940121257-30ff40191e73?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "محمد فتحي",
+          "stars": 5,
+          "comment": "كانت من أفضل الرحلات التي قمت بها، الشواطئ كانت مذهلة والمناظر الطبيعية رائعة.",
+          "date": "04/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1602233158242-3ba0ac4d2167?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "فاطمة محمد",
+          "stars": 3,
+          "comment": "الرحلة كانت جيدة ولكن تحتاج إلى بعض التحسينات في الخدمة والطعام.",
+          "date": "05/01/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1552641156-93ea2a5f78e2?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "أحمد حسين",
+          "stars": 5,
+          "comment": "إذا كنت تبحث عن الاسترخاء والاستمتاع بجمال البحر، هذه الرحلة هي الخيار المثالي.",
+          "date": "06/01/2025"
+        }
+      ]
+    },
+    "services": [
+      {
+        "label": "الاكل والشرب",
+        "categories": ["وجبة فطور", "غداء بوفيه مفتوح", "عشاء فاخر"]
+      },
+      {
+        "label": "الأنشطة",
+        "categories": ["غوص", "جولات بحرية", "رياضات مائية"]
+      },
+      {
+        "label": "الترفيه",
+        "categories": ["حفلات شاطئية", "أمسيات موسيقية", "عروض فلكلورية"]
+      },
+      {
+        "label": "الإقامة",
+        "categories": ["غرف فاخرة", "أجنحة خاصة", "غرف مطلة على البحر"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "سفاري الجزائر",
+    "location": "الصحراء الكبرى, الجزائر",
+    "cover": "https://images.unsplash.com/photo-1549145177-238518f1ec1a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "discount": 10,
+    "iqd_price": "200,000",
+    "images": [
+      "https://images.unsplash.com/photo-1575664274476-e02d99195164?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1558628697-b62c1e51b2fb?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1535585538107-e457d37fbde5?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1588676449872-3eaa8b242e69?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "available_seat_count": 8,
+    "from": "10 مارس",
+    "to": "14 مارس",
+    "info": {
+      "description": "رحلة سفاري في قلب الصحراء الكبرى، استمتع بالجولات على الجمال وزيارة واحات الصحراء الرائعة.",
+      "duration": "5 أيام",
+      "next_trip": "20 أبريل",
+      "type": "مغامرة"
+    },
+    "images_section": [
+      "https://images.unsplash.com/photo-1588649496067-59abb9460137?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1582638682484-02feebeafc3e?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1598960503568-07ea87fa71b2?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "reviews": {
+      "result": "4.6",
+      "stars": 4,
+      "total_reviews_count": 220,
+      "stars_details": [
+        {
+          "label": 5,
+          "count": 150
+        },
+        {
+          "label": 4,
+          "count": 40
+        },
+        {
+          "label": 3,
+          "count": 20
+        },
+        {
+          "label": 2,
+          "count": 5
+        },
+        {
+          "label": 1,
+          "count": 5
+        }
+      ],
+      "user_reviews": [
+        {
+          "cover": "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "حسين عبد الله",
+          "stars": 5,
+          "comment": "تجربة مدهشة، المناظر الطبيعية في الصحراء ساحرة!",
+          "date": "01/02/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1631947430066-48c30d57b943?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "جميلة ناصر",
+          "stars": 4,
+          "comment": "الرحلة كانت ممتعة ولكن كانت درجات الحرارة مرتفعة جدًا.",
+          "date": "02/02/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "محمود علي",
+          "stars": 3,
+          "comment": "الأنشطة كانت ممتعة، ولكن أعتقد أن التنقل بين الواحات كان صعبًا.",
+          "date": "03/02/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1628015081036-0747ec8f077a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "نوال سامي",
+          "stars": 5,
+          "comment": "هذه كانت رحلتي المفضلة، لم أرَ جمالًا مثل هذا في حياتي.",
+          "date": "04/02/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "صادق فوزي",
+          "stars": 4,
+          "comment": "جولة رائعة ولكن بعض الأنشطة كانت تحتاج إلى تنظيم أفضل.",
+          "date": "06/02/2025"
+        }
+      ]
+    },
+    "services": [
+      {
+        "label": "الاكل والشرب",
+        "categories": ["وجبة فطور صحية", "غداء محلي", "عشاء تقليدي صحراوي"]
+      },
+      {
+        "label": "الأنشطة",
+        "categories": ["ركوب الجمال", "جولات صحراوية", "رحلات ليلية تحت النجوم"]
+      },
+      {
+        "label": "الترفيه",
+        "categories": ["حفلات شاي صحراوي", "حكايات من البدو", "أمسيات موسيقية"]
+      },
+      {
+        "label": "الإقامة",
+        "categories": ["خيمة بدوية", "خيمة فاخرة", "خيمة جماعية"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "سياحة في باريس",
+    "location": "باريس, فرنسا",
+    "cover": "https://plus.unsplash.com/premium_photo-1661914178431-fc899737a386?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "discount": 20,
+    "iqd_price": "500,000",
+    "images": [
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "available_seat_count": 15,
+    "from": "25 مارس",
+    "to": "30 مارس",
+    "info": {
+      "description": "جولة سياحية تشمل زيارة معالم باريس الشهيرة مثل برج إيفل وكاتدرائية نوتردام، مع جولات في شوارع باريس الرومانسية.",
+      "duration": "6 أيام",
+      "next_trip": "10 أبريل",
+      "type": "ثقافية"
+    },
+    "images_section": [
+      "https://images.unsplash.com/photo-1503917988258-f87a78e3c995?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1603378995290-8d4ce0495ddd?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1471623432079-b009d30b6729?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "reviews": {
+      "result": "4.9",
+      "stars": 5,
+      "total_reviews_count": 600,
+      "stars_details": [
+        {
+          "label": 5,
+          "count": 550
+        },
+        {
+          "label": 4,
+          "count": 40
+        },
+        {
+          "label": 3,
+          "count": 10
+        },
+        {
+          "label": 2,
+          "count": 0
+        },
+        {
+          "label": 1,
+          "count": 0
+        }
+      ],
+      "user_reviews": [
+        {
+          "cover": "https://images.unsplash.com/photo-1697759041999-6c76b349b0a8?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "علي مصطفى",
+          "stars": 5,
+          "comment": "باريس كانت رائعة! كل شيء كان منظمًا بشكل ممتاز.",
+          "date": "01/03/2025"
+        },
+        {
+          "cover": "https://plus.unsplash.com/premium_photo-1668319914124-57301e0a1850?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "سلمى أحمد",
+          "stars": 5,
+          "comment": "أفضل رحلة قمت بها! الأنشطة كانت رائعة والموقع ممتاز.",
+          "date": "02/03/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1592188657297-c6473609e988?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "مريم فؤاد",
+          "stars": 4,
+          "comment": "الرحلة كانت جميلة ولكن كانت بعض الأماكن مزدحمة.",
+          "date": "03/03/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1584940120743-8981ca35b012?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "يوسف العلي",
+          "stars": 5,
+          "comment": "باريس مدينة ساحرة! كانت الإقامة في الفندق رائعة أيضًا.",
+          "date": "04/03/2025"
+        },
+        {
+          "cover": "https://images.unsplash.com/photo-1606814893907-c2e42943c91f?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "نسرين جمال",
+          "stars": 5,
+          "comment": "رحلة ممتعة جدًا، أنصح الجميع بزيارة باريس!",
+          "date": "05/03/2025"
+        }
+      ]
+    },
+    "services": [
+      {
+        "label": "الاكل والشرب",
+        "categories": ["فطور فرنسي", "غداء في مطعم فاخر", "عشاء على ضفاف نهر السين"]
+      },
+      {
+        "label": "الأنشطة",
+        "categories": ["زيارة برج إيفل", "جولات في المتاحف", "نزهات بالقارب"]
+      },
+      {
+        "label": "الترفيه",
+        "categories": ["حفل موسيقي في شارع الشانزليزيه", "عرض رقص فلكلوري", "حفلات عشاء في الفنادق"]
+      },
+      {
+        "label": "الإقامة",
+        "categories": ["فنادق 5 نجوم", "أجنحة فاخرة", "غرف مطلة على برج إيفل"]
+      }
+    ]
+  }
+]

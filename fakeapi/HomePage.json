@@ -1,0 +1,103 @@
+{
+  "places": [
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1691338312403-e9f7f7984eeb?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "تركيا"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1607207685852-51dd32267d26?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "اذربيجان"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "الامارات"
+    }
+  ],
+  "categories": [
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1678558578134-96d61d1754aa?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "رحلات دينية",
+      "description": "رحلات لزيارة الأماكن المقدسة والتواصل الروحي."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "رحلات سياحية",
+      "description": "رحلات لاكتشاف المعالم السياحية والثقافات."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "رحلات علاجية",
+      "description": "رحلات للعلاج والرعاية الصحية."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1560007839-61ee19f32b06?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "label": "رحلات رياضية",
+      "description": "رحلات للمشاركة في الفعاليات الرياضية."
+    }
+  ],
+  "reels": [
+    {
+      "label": "رحلة تخييم",
+      "image": "https://images.unsplash.com/photo-1486915309851-b0cc1f8a0084?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "اربيل, العراق"
+    },
+    {
+      "label": "رحلة ثقافية",
+      "image": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "القاهرة, مصر"
+    },
+    {
+      "label": "رحلة شاطئية",
+      "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "شرم الشيخ, مصر"
+    },
+    {
+      "label": "رحلة جبلية",
+      "image": "https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "جبال الألب, سويسرا"
+    },
+    {
+      "label": "رحلة سياحية",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "باريس, فرنسا"
+    }
+  ],
+  "visa": [
+    {
+      "label": "فيزا سياحية",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "اربيل, العراق",
+      "price": "190$",
+      "discount": "138$"
+    },
+    {
+      "label": "فيزا دراسية",
+      "image": "https://plus.unsplash.com/premium_photo-1664461662789-b72903263bad?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "لندن, المملكة المتحدة",
+      "price": "300$",
+      "discount": "250$"
+    },
+    {
+      "label": "فيزا عمل",
+      "image": "https://images.unsplash.com/photo-1556745753-b2904692b3cd?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "دبي, الإمارات العربية المتحدة",
+      "price": "250$",
+      "discount": "200$"
+    },
+    {
+      "label": "فيزا علاجية",
+      "image": "https://images.unsplash.com/photo-1488998527040-85054a85150e?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "باريس, فرنسا",
+      "price": "350$",
+      "discount": "280$"
+    },
+    {
+      "label": "فيزا سياحية متعددة",
+      "image": "https://images.unsplash.com/photo-1504598318550-17eba1008a68?q=80&w=720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "location": "اسطنبول, تركيا",
+      "price": "220$",
+      "discount": "180$"
+    }
+  ]
+
+}
