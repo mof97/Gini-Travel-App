@@ -13,7 +13,7 @@
         >
       </NCarousel>
     </header>
-    <section class="-mt-10 rounded-t-[24px] bg-white relative py-10">
+    <section class="-mt-10 rounded-t-[24px] bg-white relative pt-10">
       <div class="container">
         <div class="head flex items-center justify-between">
           <div>
@@ -52,14 +52,14 @@
             <DetailsRating :reviews="data.reviews" />
           </NTabPane>
           <NTabPane name="fu" tab="الخدمات">
-            <div class="py-2 grid grid-cols-1 gap-3">
+            <div class="pt-2 pb-10 grid grid-cols-1 gap-3">
               <DetailsServices v-for="(service,index) in data.services" :service="service" :is_active="index === 0 ? true : false" />
             </div>
           </NTabPane>
         </NTabs>
       </div>
     </section>
-    <section class="pt-4 border-t">
+    <section class="">
       <div class="container max-w-screen-sm">
         <NButton round size="large" block type="primary" class="py-2 font-bold">
           حجز الرحلة

@@ -3,7 +3,7 @@
       v-model:show="active"
       placement="bottom"
       :trap-focus="false"
-      :height="650"
+      :height="600"
   >
     <NDrawerContent>
       <div class="filter-header flex items-center justify-between mb-5">
@@ -31,8 +31,8 @@
         <h2 class="text-[18px] font-medium mb-3">
           الفئة
         </h2>
-        <ul class="flex items-centre flex-wrap gap-5 mb-10 overflow-x-auto text-[14px] scroll-none">
-          <li v-for="(category,index) in categories" @click="selectedCategory = index" :class="selectedCategory === index ? 'text-white bg-primary':''" class="px-8 py-3 cursor-pointer rounded-full duration-300 border">
+        <ul class="flex items-centre flex-wrap gap-5 mb-10  overflow-x-auto text-[14px] scroll-none">
+          <li v-for="(category,index) in categories" @click="selectedCategory = index" :class="selectedCategory === index ? 'text-white bg-primary':''" class="px-14 py-4 cursor-pointer rounded-full duration-300 border">
             {{ category }}
           </li>
         </ul>
@@ -109,4 +109,12 @@ const reset = ()=>{
   @apply rounded-full
 }
 
+
+.n-drawer {
+  border-radius: 24px 24px 0px 0px !important;
+}
+
+.n-slider .n-slider-handles .n-slider-handle-wrapper .n-slider-handle {
+  background-color: #DA2428;
+}
 </style>

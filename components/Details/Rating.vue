@@ -44,7 +44,7 @@ import ReviewCard from "~/components/Details/ReviewCard.vue";
 </script>
 <style>
 
-  .user-reviews .review-card:not(:last-child) {
+  .user-reviews .review-card {
     @apply border-b
   }
 

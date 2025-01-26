@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         content: ["./index.html", "./src/**/*.{ts,tsx,js,jsx}"],
         container:{
           center:true,
-          padding:"2rem"
+          padding:"1rem"
         },
         extend:{
           colors:{

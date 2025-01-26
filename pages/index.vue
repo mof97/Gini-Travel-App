@@ -39,7 +39,7 @@
       </div>
     </section>
     <section id="places" class="relative pt-5">
-      <div class="container max-w-screen-md flex items-stretch w-full gap-5 overflow-x-auto scroll-none">
+      <div class="container max-w-screen-md flex items-stretch w-full gap-3 overflow-x-auto scroll-none">
         <img class="h-full w-11/12" src="@/assets/images/head-slider/02.png">
         <img src="@/assets/images/head-slider/01.png">
       </div>
@@ -54,7 +54,7 @@
             عرض الكل
           </nuxt-link>
         </div>
-        <div class="page-content flex items-stretch w-full gap-5 overflow-x-auto scroll-none">
+        <div class="page-content flex items-stretch w-full gap-3 overflow-x-auto scroll-none">
           <CategoryCard class="flex-none" v-for="item in HomePage.categories" :item="item" />
         </div>
       </div>
@@ -69,7 +69,7 @@
             عرض الكل
           </nuxt-link>
         </div>
-        <div class="page-content flex items-stretch w-full gap-5 overflow-x-auto scroll-none">
+        <div class="page-content flex items-stretch w-full gap-3 overflow-x-auto scroll-none">
           <ReelsCard class="flex-none" v-for="item in HomePage.reels" :item="item" />
         </div>
       </div>
@@ -84,22 +84,22 @@
             عرض الكل
           </nuxt-link>
         </div>
-        <div class="page-content flex items-stretch w-full gap-5 overflow-x-auto scroll-none">
+        <div class="page-content flex items-stretch w-full gap-3 overflow-x-auto scroll-none">
           <VisaCard class="flex-none" v-for="item in HomePage.visa" :item="item" />
         </div>
       </div>
     </section>
-    <section id="categories" class="relative py-10">
+    <section id="categories" class="relative py-5">
       <div class="container max-w-screen-md">
         <div class="section-head mb-3 flex items-center justify-between">
-          <h2 class="text-2xl">
+          <h2 class="text-[20px] font-bold">
             المجموعات المقترحة
           </h2>
-          <nuxt-link to="" class="text-primary text-lg">
+          <nuxt-link to="" class="text-primary text-[12px]">
             عرض الكل
           </nuxt-link>
         </div>
-        <div class="page-content grid grid-cols-2 gap-5">
+        <div class="page-content grid grid-cols-2 gap-3">
           <ResultCard v-for="trip in Trips" :trip="trip"/>
         </div>
       </div>

@@ -1,8 +1,8 @@
 
 <template>
   <NuxtLink :to="`/details?id=${trip.id}`" id="result-card" class="relative">
-    <img class="h-[300px] w-full rounded-[8px] object-cover" :src="trip.cover" alt="">
-    <div class="overlay w-full h-full rounded-[8px] absolute top-0 left-0"></div>
+    <img class="h-[220px] w-full rounded-[18px] object-cover" :src="trip.cover" alt="">
+    <div class="overlay w-full h-full rounded-[18px] absolute top-0 left-0"></div>
     <div class="content absolute bottom-0 right-0 w-full h-full flex justify-between flex-col text-white px-3 py-3">
       <div class="card-head flex  items-center justify-between">
         <div style="direction: ltr" class="tag px-2 w-20 h-6 pt-1 flex items-center justify-center  text-sm bg-blur rounded">

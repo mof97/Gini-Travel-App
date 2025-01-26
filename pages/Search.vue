@@ -5,16 +5,22 @@
       <h2 class="text-2xl font-bold mb-10">
         البحث
       </h2>
-      <FilterSearch class="mb-5" />
-      <ul class="flex items-centre gap-5 mb-10 overflow-x-auto text-[14px] scroll-none">
+      <FilterSearch class="mb-3" />
+      <ul class="flex items-centre gap-3 mb-10 overflow-x-auto text-[14px] scroll-none">
         <li class="px-10 py-3 rounded-full text-white bg-black border">
           لك
         </li>
         <li class="px-10 py-3 rounded-full  border">
           الدينية
         </li>
-        <li v-for="item in 4" class="px-10 py-3 rounded-full  border">
-          السياحية
+        <li class="px-10 py-3 rounded-full  border">
+          سياحية
+        </li>
+        <li class="px-10 py-3 rounded-full  border">
+          رياضية
+        </li>
+        <li class="px-10 py-3 rounded-full  border">
+          علاجية
         </li>
       </ul>
       <div class="grid grid-cols-2 gap-5">
